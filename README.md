@@ -202,10 +202,3 @@ Hello, I'm **Dan**! A passionate **Computer Engineering graduate** from Polytech
 
 ---
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=zzelif&color=blueviolet&style=for-the-badge)
-  
-  ### 💡 *"Building solutions that matter, one commit at a time."*
-  
-</div>
