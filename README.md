@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Data+Analytics+Explorer;Quality+Assurance+Engineer;Dev+Ops)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Data+Analytics+Explorer;Quality+Assurance+Engineer;Aspiring+DevOps+Engineer)
   
   [![GitHub](https://img.shields.io/badge/GitHub-zzelif-181717?style=for-the-badge&logo=github)](https://github.com/zzelif)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dan_Gabriel_Lettac-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dan-gabriel-lettac)
