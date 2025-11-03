@@ -93,7 +93,7 @@ Hello, I'm **Dan**! A passionate **Computer Engineering graduate** from Polytech
 - Deployed at General Tiburcio de Leon Elementary School, Valenzuela City
 - **Tech Stack:** Python, TensorFlow, Keras, React Native, Firebase
 
-### 🎙️ [Educast](https://github.com/zzelif/educast)
+### 🎙️ [Educast](https://github.com/ShinayLim/educast)
 
 **Educational Podcast Platform for PUP OUS** | *Developer*
 
@@ -103,7 +103,7 @@ Hello, I'm **Dan**! A passionate **Computer Engineering graduate** from Polytech
 - Designed responsive UI optimized for educational workflows
 - **Tech Stack:** React, TypeScript, Vite, Supabase, TailwindCSS
 
-### 🤝 [DevMatch](https://github.com/zzelif/builder-round/devmatch)
+### 🤝 [DevMatch](https://github.com/zzelif/builder-round-devmatch)
 
 **Developer Networking Platform** | *Full Stack Developer*
 
