@@ -83,7 +83,7 @@ Hello, I'm **Dan**! A passionate **Computer Engineering graduate** from Polytech
 <summary>🚀 Featured Projects</summary>
 <br/>
 
-### 🧠 [Project EYES](https://github.com/zzelif/project-eyes)
+### 🧠 [Project EYES](https://github.com/zzelif/ProjectEyes)
 
 **Affective Computing for Children with Down Syndrome** | *Lead Researcher*
 
@@ -116,7 +116,7 @@ Hello, I'm **Dan**! A passionate **Computer Engineering graduate** from Polytech
 
 ### 💻 [Automated Attendance System](https://github.com/zzelif/automated-attendance)
 
-**Attendance Management System for TESDA Java NC III** | *Lead Developer*
+**Attendance Management System for TESDA Java NC III** | *Developer*
 
 - Built an attendance system using **Java** and **MySQL**
 - Implemented role-based JFrame forms for teachers and students
